@@ -270,3 +270,14 @@ THROW 500001,@ERRORMESSAGE,1
 END CATCH
 
 END
+![Screenshot 2024-04-20 104519](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/f2b5e63d-f9d2-4960-b1d5-8f96b8bb5fa5)
+![Screenshot 2024-04-20 104245](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/d246fdeb-f2e2-4062-99aa-e7b7c67d8922)
+![Screenshot 2024-04-20 104220](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/97a01c2b-7d61-45ea-a4e5-424f9c64f200)
+![Screenshot 2024-04-20 104148](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/7c3c180b-7596-4432-a0c3-094ff9f0bbfb)
+![Screenshot 2024-04-20 104007](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/743c50a0-13bd-4304-a4a9-5a34cb54d2c0)
+![Screenshot 2024-04-20 103942](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/2efe2e88-d674-4024-a2b9-dd71a769047c)
+![Screenshot 2024-04-20 103914](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/0e7a7d3e-6c5f-4622-b000-feb5083d5e3a)
+![Screenshot 2024-04-20 103849](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/7e29f7bf-f6e3-4b7a-a62c-85c12266fd48)
+![Screenshot 2024-04-20 103709](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/f9ff518d-76cd-43d8-999e-352e4b030532)
+![Screenshot 2024-04-20 103629](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/b5611d49-481a-4b15-a775-b2109f9b29e1)
+
