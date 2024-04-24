@@ -279,6 +279,7 @@ END
 ![Screenshot 2024-04-25 044455](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/6a60327c-7550-484a-9dbe-5cabf5ae117a)
 ![Screenshot 2024-04-25 044159](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/e03e2ae6-f5fd-49ee-9687-a96dd5250019)
 assets/103803533/743c50a0-13bd-4304-a4a9-5a34cb54d2c0)![Screenshot 2024-04-25 045245](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/55a04f2b-81f3-42c9-a04c-007eba784fd3)
+![Screenshot 2024-04-25 044646](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/609982c9-fbe8-4344-8c53-956c1e483de7)
 
 ![Screenshot 2024-04-20 103942](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/2efe2e88-d674-4024-a2b9-dd71a769047c)
 ![Screenshot 2024-04-20 103914](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/0e7a7d3e-6c5f-4622-b000-feb5083d5e3a)
