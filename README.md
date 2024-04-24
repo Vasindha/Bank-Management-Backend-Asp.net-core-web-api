@@ -10,7 +10,8 @@ ALTER PROCEDURE [dbo].[ADDACCOUNT](
  @DOB DATETIME,
  @MOBILE DECIMAL(10),
  @EMAIL VARCHAR(40),
- @AADHAR DECIMAL(12),
+ @AADHAR DECIMAL(12),![Screenshot 2024-04-25 044126](https://github.com/Vasindha/Bank-Management-Backend-Asp.net-core-web-api/assets/103803533/00c20428-6c81-4331-9f0e-4800c6ff1b15)
+
  @ACCOOUNT_TYPE INT
 
  )
